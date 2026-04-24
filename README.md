@@ -232,8 +232,8 @@
 
 | MCP | 用途 | 获取方式 |
 |-----|------|---------|
-| **yiyanxuangu MCP** | 股票/公司基本面、财务数据、行情信息 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [万行开放平台](https://platform.wanxingai.com/user/interface) |
-| **万行-news MCP**（太一数据） | 新闻检索、行业数据、价格趋势、高频指标 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [万行开放平台](https://platform.wanxingai.com/user/interface) |
+| **Oneshare 太一数据 MCP** | 股票/公司基本面、财务数据、行情信息 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [万行开放平台](https://platform.wanxingai.com/user/interface) |
+| **万行 news search MCP**（太一联网检索） | 金融领域新闻检索 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [万行开放平台](https://platform.wanxingai.com/user/interface) |
 
 ---
 
