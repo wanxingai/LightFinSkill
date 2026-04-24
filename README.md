@@ -1,6 +1,6 @@
-# 万行 AI SkillHub
+# 万行AI 金融领域Skill分享
 
-上海万行道和人工智能科技公司出品的高质量 OpenClaw Skill 合集，面向投研、金融、产业分析等专业人士场景。
+金融领域高质量 OpenClaw Skill 合集，面向投研、金融、产业分析等专业人士场景。
 
 > **开放平台**：[万行开放平台](https://platform.wanxingai.com/user/interface) — 一键安装所有技能，查看使用文档
 >
