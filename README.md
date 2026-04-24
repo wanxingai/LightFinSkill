@@ -232,8 +232,8 @@
 
 | MCP | 用途 | 获取方式 |
 |-----|------|---------|
-| **Oneshare 太一数据 MCP** | 股票/公司基本面、财务数据、行情信息 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [万行开放平台](https://platform.wanxingai.com/user/interface) |
-| **万行 news search MCP**（太一联网检索） | 金融领域新闻检索 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [万行开放平台](https://platform.wanxingai.com/user/interface) |
+| **Oneshare 太一数据 MCP** | 股票/公司基本面、财务数据、行情信息 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [太一数据开放平台](https://platform.wanxingai.com/user/) |
+| **万行 news search MCP**（太一联网检索） | 金融领域新闻检索 | [百炼 MCP 市场](https://bailian.console.aliyun.com/cn-beijing?spm=a2c4g.11186623.0.0.33f5494ckRkOYp&tab=mcp#/mcp-market/detail/yiyanxuangu) / [太一数据开放平台](https://platform.wanxingai.com/user/) |
 
 ---
 
@@ -241,11 +241,11 @@
 
 | 技能 | 作者 |
 |-----|------|
-| 前沿技术全景图（front-tech-map） | **Yilin** |
-| 周期股研究（cyclical-stock-research） | **Yilin** |
-| 可比公司分析（comparable-company-analysis） | **Yilin** |
-| 宏观事件分析（macro-event-analysis） | **Yilin** |
-| 事件点评（event-commentary） | **Yilin** |
+| 前沿技术全景图（front-tech-map） | **魏屹林** |
+| 周期股研究（cyclical-stock-research） | **魏屹林** |
+| 可比公司分析（comparable-company-analysis） | **魏屹林** |
+| 宏观事件分析（macro-event-analysis） | **魏屹林** |
+| 事件点评（event-commentary） | **魏屹林** |
 
 ---
 
@@ -253,6 +253,6 @@
 
 - **版本**：v1.0.0
 - **发布日期**：2026-04-24
-- **维护方**：上海万行道和人工智能科技公司
-- **官方网站**：[万行开放平台](https://platform.wanxingai.com/user/interface)
+- **维护方**：上海万行道和人工智能科技有限公司
+- **官方网站**：[万行AI](https://www.wanxingai.com/)
 - **许可证**：MIT
